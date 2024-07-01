@@ -1,6 +1,6 @@
 ---
 title: "CLT_WUP"
-author: "Your Name"
+author: "Daisy Gallegos"
 output: 
   html_document:
     number_sections: true
